@@ -1,0 +1,11 @@
+Package: fieldsheetConversion
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: person("Stevan", "Earl", email = "stevan.earl@asu.edu", role = c("aut", "cre"),
+    comment = c(ORCID = "0000-0002-4465-452X"))
+Description: More about what it does (maybe more than one line).
+    Continuation lines should be indented.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
